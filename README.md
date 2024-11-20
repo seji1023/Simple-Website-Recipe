@@ -2,7 +2,7 @@ Hi this is group
 Members
   Leader: Sarto,Sean Henjie
   Members: Arroyo, Juliane Christine
-            Geopano Christian
+            Geopano , Christian
             Vipinoso, Rica Rose 
             Dela Cruz, Ellen
             Rodrigueza, Chelsea
