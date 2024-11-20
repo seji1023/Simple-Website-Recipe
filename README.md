@@ -1,9 +1,9 @@
 Hi this is group 
 Members
-  Leader: Rica Vipinoso
+  Leader: Sarto,Sean Henjie
   Members: Arroyo, Juliane Christine
             Geopano Christian
-            Sarto, Sean Henjie
+            Vipinoso, Rica Rose 
             Dela Cruz, Ellen
             Rodrigueza, Chelsea
 
