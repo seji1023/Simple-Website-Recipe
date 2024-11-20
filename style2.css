@@ -1,0 +1,71 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4f4; /* Optional: Add a background color */
+}
+
+/* Style the login container */
+.login {
+  max-width: 280px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for better appearance */
+}
+
+/* Style the header section */
+.hader {
+  text-align: center;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.hader p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  color: #706b6b;
+}
+
+/* Style the form and its elements */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+form input {
+  height: 40px;
+  outline: none;
+  border: 1px solid #cccccc;
+  padding: 10px;
+  font-size: 15px;
+  border-radius: 8px;
+}
+
+form input[type="button"] {
+  background-color: goldenrod;
+  color: #ffffff;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+form span {
+  text-align: center;
+  font-size: 16px;
+  padding-top: 10px;
+  color: #706b6b;
+}
+
+form span a {
+  text-decoration: none;
+  color: rgba(36, 36, 207, 0.671);
+  font-weight: 500;
+}
