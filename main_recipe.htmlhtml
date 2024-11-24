@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BSIT E Recipe Hub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="container">
+            <h1>BSIT E Recipe Hub</h1>
+            <p>Crafted with care by the students of BSIT E Section. Share, Cook, and Connect!</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Introduction Section -->
+        <section class="intro">
+            <h2>Welcome, Food Enthusiasts!</h2>
+            <p>Discover a treasure trove of Filipino dishes and international cuisines, brought to you by the creative minds of BSIT E Section. Let’s celebrate the art of cooking together!</p>
+        </section>
+
+        <!-- Recipe Categories -->
+        <section class="recipes">
+            <h2>Explore Our Culinary Creations</h2>
+            
+            <!-- Dishes Section -->
+            <div class="recipe-category">
+                <h3>Main Dishes 🍛</h3>
+                <div class="recipe-grid">
+                    <div class="recipe-card">
+                        <a href="adobo.html">
+                            <img src="adobo.jpg" alt="Adobo">
+                            <h4>Adobo</h4>
+                        </a>
+                        <p>A savory classic with soy sauce, vinegar, and garlic.</p>
+                    </div>
+                    <div class="recipe-card">
+                        <a href="kaldereta.html">
+                            <img src="kaldereta.jpg" alt="Kaldereta">
+                            <h4>Kaldereta</h4>
+                        </a>
+                        <p>Spiced stew with tender meat and hearty vegetables.</p>
+                    </div>
+                    <div class="recipe-card">
+                        <a href="menudo.html">
+                            <img src="menudo.jpg" alt="Menudo">
+                            <h4>Menudo</h4>
+                        </a>
+                        <p>Comforting dish with pork, liver, and tomato sauce.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Desserts Section -->
+            <div class="recipe-category">
+                <h3>Sweet Treats 🍨</h3>
+                <div class="recipe-grid">
+                    <div class="recipe-card">
+                        <a href="halo-halo.html">
+                            <img src="halo-halo.jpg" alt="Halo-Halo">
+                            <h4>Halo-Halo</h4>
+                        </a>
+                        <p>A refreshing mix of sweet toppings, milk, and shaved ice.</p>
+                    </div>
+                    <div class="recipe-card">
+                        <a href="leche-flan.html">
+                            <img src="leche-flan.jpg" alt="Leche Flan">
+                            <h4>Leche Flan</h4>
+                        </a>
+                        <p>A creamy caramel custard dessert perfect for any occasion.</p>
+                    </div>
+                    <div class="recipe-card">
+                        <a href="ube.html">
+                            <img src="ube.jpg" alt="Ube">
+                            <h4>Ube Delights</h4>
+                        </a>
+                        <p>Sweet and vibrant purple yam, perfect for pastries and desserts.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Community Contributions -->
+        <section class="community">
+            <h2>Join the BSIT E Community!</h2>
+            <p>Have a recipe that inspires you? Share your creation with us and become part of our culinary journey!</p>
+            <a href="add-recipe.html" class="button">Submit Your Recipe</a>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <p>&copy; 2024 BSIT E Recipe Hub. Built with ❤️ and passion for food.</p>
+    </footer>
+</body>
+</html>
