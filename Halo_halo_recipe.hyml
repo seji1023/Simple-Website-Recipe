@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halo-Halo Recipe | BSIT E Recipe Hub</title>
+    <link rel="stylesheet" href="main_recipe.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>BSIT E Recipe Hub</h1>
+            <p>Crafted with care by the students of BSIT E Section. Share, Cook, and Connect!</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="recipe-intro">
+            <h2>Halo-Halo - The Ultimate Filipino Refreshment</h2>
+            <p>Halo-Halo is a fun and refreshing Filipino dessert made of a variety of colorful ingredients, topped with shaved ice and sweet milk. Perfect for hot summer days or whenever you're in the mood for a cool, sweet treat.</p>
+        </section>
+
+        <section class="ingredients">
+            <h3>Ingredients:</h3>
+            <ul>
+                <li>1 cup shaved ice</li>
+                <li>1/4 cup sweetened red beans (e.g., munggo or adzuki beans)</li>
+                <li>1/4 cup sweetened jackfruit, sliced</li>
+                <li>1/4 cup sweetened banana (saba variety), sliced</li>
+                <li>1/4 cup sweetened coconut strings (macapuno)</li>
+                <li>1/4 cup leche flan, cubed</li>
+                <li>1/4 cup purple yam (ube halaya)</li>
+                <li>1/4 cup nata de coco (coconut gel)</li>
+                <li>1/4 cup sweetened gulaman (jelly cubes)</li>
+                <li>1/4 cup corn kernels (optional)</li>
+                <li>1 scoop vanilla or ube ice cream</li>
+                <li>Sweetened condensed milk (for drizzling)</li>
+                <li>Evaporated milk (for drizzling)</li>
+            </ul>
+        </section>
+
+        <section class="instructions">
+            <h3>Instructions:</h3>
+            <ol>
+                <li>Prepare all the ingredients by cutting and sweetening the fruits and beans ahead of time. Drain excess syrup from the sweetened ingredients if necessary.</li>
+                <li>In a tall glass or bowl, place a layer of shaved ice at the bottom.</li>
+                <li>Layer each of the ingredients, starting with the sweetened beans, jackfruit, banana, coconut strings, and ube. Add the leche flan, nata de coco, gulaman, and corn kernels (if using).</li>
+                <li>Top with a scoop of ice cream (vanilla or ube works best) and a generous drizzle of sweetened condensed milk and evaporated milk.</li>
+                <li>Mix everything together before eating to enjoy the full combination of textures and flavors. Serve immediately with a straw and a spoon!</li>
+            </ol>
+        </section>
+
+        <section class="tips">
+            <h3>Helpful Tips:</h3>
+            <ul>
+                <li>You can customize your Halo-Halo by adding or removing ingredients based on your preferences. Some variations include adding sweetened pineapple, toasted rice flakes, or other tropical fruits.</li>
+                <li>For a creamier treat, you can substitute some of the milk with coconut milk.</li>
+                <li>If you're making Halo-Halo for a group, serve in individual cups or bowls for easy mixing and sharing.</li>
+                <li>If you prefer a lighter version, you can reduce the amount of sweetened condensed milk or opt for a sugar-free variant.</li>
+            </ul>
+        </section>
+
+        <section class="community">
+            <h2>Join the BSIT E Community!</h2>
+            <p>Have a recipe that inspires you? Share your creation with us and become part of our culinary journey!</p>
+            <a href="add-recipe.html" class="button">Submit Your Recipe</a>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 BSIT E Recipe Hub. Built with ❤️ and passion for food.</p>
+    </footer>
+</body>
+</html>
