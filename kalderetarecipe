@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaldereta Recipe - Filipino Tastes Cuisine</title>
+    <link rel="stylesheet" href="kaldereta.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+
+<!-- Navigation Bar -->
+<nav>
+    <a href="index.html" class="nav-brand">Filipino Tastes Cuisine</a>
+    <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="recipes.html">Recipe</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="signup.html">Sign Up</a></li>
+        <li><a href="customer-service.html">Customer Service</a></li>
+    </ul>
+</nav>
+
+<!-- Page Header -->
+<header>
+    <h1>Delicious Kaldereta Recipe</h1>
+</header>
+
+<div class="container">
+
+    <!-- Recipe Image -->
+    <div class="section">
+        <img src="kaldereta.jpg" alt="Kaldereta Dish" width="40%" heigst="40%" style="border-radius: 8px;">
+    </div>
+
+    <!-- Ingredients Section -->
+    <div class="section">
+        <h3>Ingredients</h3>
+        <ul>
+            <li>1/2 cup olive oil</li>
+            <li>1 teaspoon sea salt</li>
+            <li>1 teaspoon ground black pepper</li>
+            <li>12 pounds goat meat, cut into 2-inch chunks, from the leg, shoulder, and loin</li>
+            <li>2 tablespoons butter</li>
+            <li>1 jalapeño pepper, seeded and stemmed, minced</li>
+            <li>1 large yellow onion, chopped (about 3/4 cup)</li>
+            <li>1 teaspoon garlic, minced</li>
+            <li>1/2 cup tomato paste</li>
+            <li>1 can (28-ounce) crushed tomatoes, undrained</li>
+            <li>2 large sweet peppers (1 green and 1 red), coarsely chopped (about 2 cups)</li>
+            <li>1 3/4 cups chicken stock</li>
+            <li>3/4 cup smooth peanut butter</li>
+            <li>2 ounces grated cheddar cheese</li>
+            <li>1/2 cup frozen green peas, thawed</li>
+            <li>6 cups cooked white rice, for serving</li>
+            
+        </ul>
+    </div>
+
+    <!-- Instructions Section -->
+    <div class="section">
+        <h3>Instructions</h3>
+        <ol>
+            <li>In a large bowl, combine oil, salt, and pepper. Add meat, and stir to coat. Let marinade at room temperature for 2 hours, turning meat occasionally.</li>
+            <li>Add butter to a large pot or Dutch oven and melt over medium heat. When butter has just melted, add jalapeño, onion, and garlic and sauté until light brown. Add meat to pan and continue cooking over medium heat until the meat is seared on all sides.</li>
+            <li>Add tomato paste to pot and incorporate with meat and onion mixture. Add crushed tomatoes, red and green peppers, chicken stock, and peanut butter. Cover and let simmer on low heat for 45 minutes, stirring occasionally.</li>
+            <li>Add cheese and peas. Simmer on low heat, stirring regularly. When sauce has thickened (approximately 5 minutes), remove from heat. Serve over white rice.</li>
+        </ol>
+    </div>
+
+    <!-- Button Section -->
+    <div class="buttons">
+        <a href="#" class="button">Print Recipe</a>
+        <a href="#" class="button">Share Recipe</a>
+    </div>
+
+</div>
+
+<!-- Back to Menu Section -->
+<div class="back-menu">
+    <a href="main.html">Back to Menu</a>
+</div>
+
+<footer>
+    <p>© 2024 Filipino Tastes Cuisine | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
